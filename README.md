@@ -83,7 +83,7 @@ For writing commit messages please read the [COMMITSTYLE](https://github.com/oss
 
 Our other sources of communications include
 
-- Email : sonusouravdx001@gmail.com    
+- Email : Vivekrathore9111@gmai.com
 For more information, please refer to [My personal Website](https://sonusourav.github.io/).
 
 
