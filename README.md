@@ -1,14 +1,11 @@
 <img src="https://user-images.githubusercontent.com/47269634/55819333-2a623c80-5b16-11e9-9e68-7383086d8b80.png" align =right height='150'>
 
 
-[![Issues](https://img.shields.io/github/issues-raw/oss2019/instigo-android.svg?color=red)](https://github.com/oss2019/instigo-android/issues) [![Pull Requests](https://img.shields.io/github/issues-pr/oss2019/instigo-android.svg?color=yellow)](https://github.com/oss2019/instigo-android/pulls) [![Gitter](https://img.shields.io/badge/chat-on%20gitter-ff006f.svg?style=flat-square)](https://gitter.im/oss2019/instigo-android)
-
-
 # InstiGo-Android
-InstiGo is an android app for the students and faculties of IIT Dharwad that provide a one stop solution for matters related to mess, academia and hostel. 
+InstiGo is an android app for the students and faculties that provide a one stop solution for matters related to mess, academia and hostel. 
 
 ## InstiGo apk
-[![button](https://user-images.githubusercontent.com/34706326/57187663-142a7f00-6f10-11e9-9d89-144e9f46e8f3.jpg)](https://drive.google.com/drive/folders/186EfacIxiywjDOTjxS0nG5ktbw2RuX66?usp=sharing)
+[![button](https://user-images.githubusercontent.com/34706326/57187663-142a7f00-6f10-11e9-9d89-144e9f46e8f3.jpg)](https://drive.google.com/drive/folders/1a9RPjLQtitthYVkQxOC79O4NBLy_pZwA)
 ## Libraries Used
 
 - [Firebase](https://github.com/firebase/quickstart-android) - Firebase is Google's mobile platform that helps you quickly develop high-quality apps
@@ -22,8 +19,7 @@ After cloning the project, you need to replace the existing Firebase json file w
 1. Create Firebase account and go to console ( it is present in upper right side of main website).
 2. Click on **New Project**. A dialog box opens up. Give a suitable name and click on **Create Project**.
 3. In the new window, where you have to select the platform in which you want to add Firebase, select *Android*.
-4. Register app window opens. Fill the details.  
-  **Package Name :** *com.iitdh.sonusourav.instigo*    
+4. Register app window opens. Fill the details.
   **App Nickname :** *InstiGo*   
   **Debug Signing Certificate SHA-1 :** Add your own SHA-1 key. Follow the steps if you don't know how to do so.   
   
