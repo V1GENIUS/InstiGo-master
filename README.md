@@ -56,13 +56,6 @@ After cloning the project, you need to replace the existing Firebase json file w
 }``
 
 
-## Contributing
 
-
-We currently have a series of automated Unit and Integration tests. These can be run locally and are also run when submitting a pull request.
-
-## Communication
-
-Our other sources of communications include
 
 - Email : Vivekrathore9111@gmai.com
