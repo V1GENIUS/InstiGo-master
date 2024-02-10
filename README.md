@@ -9,10 +9,6 @@ InstiGo is an android app for the students and faculties that provide a one stop
 ## Libraries Used
 
 - [Firebase](https://github.com/firebase/quickstart-android) - Firebase is Google's mobile platform that helps you quickly develop high-quality apps
-- [Glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling 
-- [KensBurnView](https://github.com/flavioarfaria/KenBurnsView) - Android ImageViews animated by Ken Burns Effect
-- [Boom Menu](https://github.com/Nightonke/BoomMenu) - A menu which can ... BOOM! - Android
-- [Butterknife](http://jakewharton.github.io/butterknife/) - View "injection" library for Android
 
 ## Project Setup
 After cloning the project, you need to replace the existing Firebase json file with yours. Follow the steps below to add json file to your project:
